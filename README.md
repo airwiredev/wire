@@ -26,7 +26,7 @@ Block.one is neither launching nor operating any initial public blockchains base
 
 ## Official Wire Explorer
 
-[locla.bloks.io](https://local.bloks.io/?nodeUrl=https%3A%2F%2Fwire.siliconswamp.info&coreSymbol=WIRE&systemDomain=eosio&hyperionUrl=https%3A%2F%2Fhyperwire.airwire.io)
+[local.bloks.io](https://local.bloks.io/?nodeUrl=https%3A%2F%2Fwire.siliconswamp.info&coreSymbol=WIRE&systemDomain=eosio&hyperionUrl=https%3A%2F%2Fhyperwire.airwire.io)
 
 ## Supported Operating Systems
 
